@@ -32,7 +32,7 @@ Want to join or collaborate?
 - Check the website for open projects and onboarding info
 - Reach out via the contact section on the site (or open a GitHub issue here)
 
-## Website tech
+## Website
 
 This site is hosted via **GitHub Pages**.
 =======
