@@ -1,5 +1,3 @@
-# Website for the Construction Technology and Robotics Laboratory e.V.
-
 CTRL Webpage	CC BY-NC-SA
 
 # CTRL e.V. — Construction Technology and Robotics Laboratory e.V.
