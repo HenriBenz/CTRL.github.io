@@ -1,5 +1,7 @@
 CTRL Webpage	CC BY-NC-SA
 
+https://henribenz.github.io/CTRL.github.io/
+
 # CTRL e.V. — Construction Technology and Robotics Laboratory e.V.
 
 Official website repository for **CTRL e.V.**, a student-driven initiative accredited by **RWTH Aachen University**.  
@@ -33,7 +35,7 @@ Want to join or collaborate?
 ## Website
 
 This site is hosted via GitHub Pages.
-http://CTRL.github.io/
+[http://CTRL.github.io/](https://henribenz.github.io/CTRL.github.io/)
 
 (c)2025  Hendrik Benz "benz@icom.rwth-aachen.de"
 
