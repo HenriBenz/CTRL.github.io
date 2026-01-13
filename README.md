@@ -35,7 +35,7 @@ Want to join or collaborate?
 ## Website
 
 This site is hosted via GitHub Pages.
-[http://CTRL.github.io/](https://henribenz.github.io/CTRL.github.io/)
+https://henribenz.github.io/CTRL.github.io/
 
 (c)2025  Hendrik Benz "benz@icom.rwth-aachen.de"
 
